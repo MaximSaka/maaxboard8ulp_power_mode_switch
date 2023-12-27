@@ -1,0 +1,5 @@
+ExitOnError 1
+r
+h
+loadfile d:\Projects\power\examples\power_mode_switch\evkmimx8ulp_power_mode_switch\armgcc\flash_release\power_mode_switch.hex
+qc
